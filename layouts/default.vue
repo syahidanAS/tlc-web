@@ -1,5 +1,8 @@
 <template>
-  <Nuxt />
+<v-app>
+    <AppBar/>
+    <Nuxt />
+  </v-app>
 </template>
 
 <script>
